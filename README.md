@@ -1,2 +1,2 @@
-# orhankzlts.github.io
+# orhan.github.io
 kişisel site
